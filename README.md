@@ -1,0 +1,17 @@
+# Notebooks containing example code for use with Quilt data repositories
+
+## Overview
+
+Quilt provides versioned, reusable building blocks for analysis in the form of data packages. A data package may contain data of any type or any size.
+
+Quilt does for data what package managers do for code: provide a centralized store of record.
+
+[More information](https://quiltdata.com/)
+
+## About this repository
+
+This repository contains example code for use with Quilt data repositories associated with my [public Quilt packages](https://quiltdata.com/package/robnewman/)
+
+## Further reading
+
+* [YouTube: Introduction to Quilt: Manage data like code](https://www.youtube.com/watch?v=bKIV1GUVLPc)
