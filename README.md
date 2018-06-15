@@ -6,7 +6,7 @@ Quilt provides versioned, reusable building blocks for analysis in the form of d
 
 Quilt does for data what package managers do for code: provide a centralized store of record.
 
-[More information](https://quiltdata.com/)
+[More information.](https://quiltdata.com/)
 
 ## About this repository
 
@@ -17,14 +17,14 @@ This repository contains example code for use with Quilt data repositories assoc
 1. Build a virtual environment:
 
 ```bash
-python3 -m venv ~/venv/quilt-py3
-source ~/venv/quilt-py3
+robnewman$ python3 -m venv ~/venv/quilt-py3
+robnewman$ source ~/venv/quilt-py3
 ```
 
 2. Install packages:
 
 ```bash
-pip install -r REQUIREMENTS.txt
+(quilt-py3) robnewman$ pip install -r REQUIREMENTS.txt
 ```
 
 3. Set up a new kernel:
@@ -32,7 +32,7 @@ pip install -r REQUIREMENTS.txt
 This is useful if you want to force Jupyter to use your virtual environment Python version and not a default from, for example, [Anaconda](https://anaconda.org/).
 
 ```bash
-ipython kernel install --user --name=quilt
+(quilt-py3) robnewman$ ipython kernel install --user --name=quilt
 ```
 
 ## Further reading
