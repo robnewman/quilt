@@ -35,6 +35,10 @@ This is useful if you want to force Jupyter to use your virtual environment Pyth
 (quilt-py3) robnewman$ ipython kernel install --user --name=quilt
 ```
 
+### Debugging
+
+[Getting the jupyterlab-quilt extension installed: Yarn version skew](https://github.com/quiltdata/jupyterlab/issues/3)
+
 ## Further reading
 
 * [YouTube: Introduction to Quilt: Manage data like code](https://www.youtube.com/watch?v=bKIV1GUVLPc)
